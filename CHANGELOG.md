@@ -2,6 +2,14 @@
 
 ## [Unreleased]
 
+## [1.7.0] - 2026-03-24
+
+- Rich markdown theme in skill preview
+- Support for Antigravity, OpenCode, Pi, Global Agents, and Copilot CLI as tool sources
+- Sidebar hides tools that aren't installed
+- Non-skill config files hidden from All Skills view
+- Fixed Sparkle minimum macOS version requirement
+
 ## [1.6.0] - 2026-03-22
 
 - Fix layout freeze when selecting a skill
